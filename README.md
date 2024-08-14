@@ -1,2 +1,0 @@
-# devcoder
-amazon clone web:
